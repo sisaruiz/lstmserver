@@ -4,3 +4,4 @@ numpy==1.23.5
 tensorflow==2.12.1
 nest-asyncio==1.5.8
 pydantic==1.10.8
+gunicorn
